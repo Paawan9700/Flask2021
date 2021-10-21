@@ -1,0 +1,1 @@
+this is paawan.txt which is inside the static folder
